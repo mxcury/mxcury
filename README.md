@@ -59,10 +59,6 @@ Hi, I'm Tom Flattery! I'm currently studying Computer Science with Artificial In
 My [repository](https://github.com/mxcury?tab=repositories)
 
 <div id="projects">
-  <a href="https://github.com/mxcury/Physarum-Simulation">
-    <img src="https://img.shields.io/badge/Physarum_Simulation-blue?logo=artifacthub&logoColor=white&style=for-the-badge" alt="Github Badge"/>
-  </a>
-  <br>
   <a href="https://github.com/mxcury/pCubedLang">
     <img src="https://img.shields.io/badge/Custom_Programming_language-green?logo=artifacthub&logoColor=white&style=for-the-badge" alt="Github Badge"/>
   </a>
